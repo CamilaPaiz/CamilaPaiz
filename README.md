@@ -6,7 +6,7 @@ Full stack web developer student
 
 * 🌍  I'm based in Bauru-Brazil
 * ✉️  You can contact me at [paizccamila@gmail.com](mailto:paizccamila@gmail.com)
-* 🧠  I'm learning React-Redux
+* 🧠  I'm learning typescript
 
 ### Skills
 
