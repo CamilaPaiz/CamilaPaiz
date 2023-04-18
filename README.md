@@ -1,12 +1,12 @@
 Hi 👋 My name is Camila Paiz
 ============================
 
-Full stack web developer student
+Full stack web developer 
 --------------------------------
 
 *   🌍  I'm based in Bauru-Brazil
 *   ✉️  You can contact me at [paizccamila@gmail.com](mailto:paizccamila@gmail.com)
-*   🧠  I'm currently learning typescript
+*   🧠  I have recently completed my full-stack web development course, covering both front-end and back-end development, and I am about to start the computer science module. In this module, I will be studying Python and Java
   
 
 ### Skills 
